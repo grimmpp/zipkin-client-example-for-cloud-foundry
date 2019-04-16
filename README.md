@@ -7,7 +7,7 @@ In the log output of Cloud Foundry you can see the log entries from the GoRouter
 
 In the following picture you can see example logs which were caused by http://zipkin-test.dev.cfdev.sh/zipkin?count=5 .
 
-<img src="logs2.jpg" width="200" />
+<img src="logs2.jpg" width="900" />
 
 ## How to build
 ````
